@@ -3,7 +3,7 @@
 In this game, you play as a chicken collecting 10 eggs worth 50 points each to reach a score of 500. With first-person perspective, you'll navigate through a world full of obstacles, using mechanics such as climbing stairs, jumping, and opening/closing doors. The game includes object manipulation mechanics where you can pick up, hold, drop, and throw mushrooms to flip boxes and uncover hidden eggs. 
 
 <p align="center">
-  <img alt="MainWindow" title="screenshot" src="/screenshots/game_trailer.gif" width="450">
+  <img alt="screenshot" title="screenshot" src="/screenshots/game_trailer.gif" width="450">
 </p>
 <p align="center">
   Video from the game.
@@ -36,8 +36,8 @@ To collect all the necessary points the player has to move empty boxes. It can o
 
 # Screenshots
 <p align="center">
-  <img alt="MainWindow" title="screenshot" src="/screenshots/top_view.jpg" width="450">
+  <img alt="screenshot" title="screenshot" src="/screenshots/top_view.jpg" width="450">
 </p>
 <p align="center">
-  <img alt="MainWindow" title="screenshot" src="/screenshots/clip1.jpg" width="450">
+  <img alt="screenshot" title="screenshot" src="/screenshots/clip1.jpg" width="450">
 </p>
